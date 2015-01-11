@@ -1,4 +1,4 @@
 Hello_Github
 ============
 
-Hi,I am new here.
+Repo for learning test.
