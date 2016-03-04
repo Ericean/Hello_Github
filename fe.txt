@@ -1,0 +1,3 @@
+this is a readme file 
+for test git remote cmds
+and rebase cmd
